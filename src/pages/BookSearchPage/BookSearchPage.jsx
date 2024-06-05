@@ -34,7 +34,7 @@ const BookSearchPage = () => {
         <div className='container'>
             <SearchBar query={query} setQuery={setQuery}></SearchBar>
             <BookList books={books} onAdd={addToBookshelf}></BookList>
-            <a href="/bookshelf">Go to My Bookshelf</a>
+            <button className="btn"><a href="/bookshelf">Go to My Bookshelf</a></button>
         </div>
     )
 }

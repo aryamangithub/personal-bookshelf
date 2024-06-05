@@ -14,7 +14,7 @@ const BookShelfPage = () => {
         <div className='container'>
             <h1>My Bookshelf</h1>
             <BookList books={bookshelf}></BookList>
-            <a href="/">Back to Search</a>
+            <button className="btn"><a href="/">Back to Search</a></button>
         </div>
     )
 
