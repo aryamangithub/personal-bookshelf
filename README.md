@@ -2,17 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To get started with personal-bookshelf, follow the installation and usage instructions in the project's documentation.
+
+1. Clone the repository to your local machine:
+
+```
+https://github.com/aryamangithub/personal-bookshelf.git
+```
+
+2. Install the required dependencies:
+
+```
+cd personal-bookshelf
+npm install
+```
+
+3. Configure the environment variables, including API keys and settings.
+
+4. Run the development server:
+
+```
+npm start
+```
+---
+
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
